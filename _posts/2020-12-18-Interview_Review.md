@@ -80,4 +80,4 @@ Library 는 코드 재사용을 위해 사용되는 방법 중 하나이고, 많
 
 Reference : [동적 라이브러리와 정적 라이브러리][동적-라이브러리와-정적-라이브러리]
 
-[동적-라이브러리와-정적-라이브러리] : https://goodgid.github.io/Static-VS-Dynamic-Libray/
+[동적-라이브러리와-정적-라이브러리]: https://goodgid.github.io/Static-VS-Dynamic-Libray/
