@@ -18,7 +18,7 @@ categories: Interview
 
 - Database 용어
 
-![Database_terms](https://github.com/don-garu/don-garu.github.io/blob/master/images/database_terms.png)
+![Database_terms](/images/database_terms.png)
 
 **식별자 (Identifier)** : 여러 집합체를 담고 있는 관계형 데이터베이스에서 각각의 구분할 수 있는 논리적인 개념
 
@@ -26,8 +26,12 @@ categories: Interview
 	- 유일성 : 하나의 Relation 에서 모든 행은 서로 다른 키 값을 가져야 한다.
 	- 최소성 : 꼭 필요한 최소의 속성들로만 키를 구성해야 한다.
 
+	?
+
 Reference :
+
 [데이터베이스 Wikipedia][데이터베이스-Wiki]
+
 [코딩팩토리 Database][코딩팩토리-Database]
 
 [데이터베이스-Wiki]: https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
