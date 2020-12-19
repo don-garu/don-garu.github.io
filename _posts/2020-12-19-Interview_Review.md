@@ -26,12 +26,13 @@ categories: Interview
 	- 유일성 : 하나의 Relation 에서 모든 행은 서로 다른 키 값을 가져야 한다.
 	- 최소성 : 꼭 필요한 최소의 속성들로만 키를 구성해야 한다.
 
-	?
+**튜플 (Tuple)** : 테이블에서 행을 의미. 같은 말로 Record 또는 Row 라고 하기도 한다. 튜플은 Relation 내에서 같은 값을 가질 수 없다. 튜플의 수는 카디날리티(Cardinality) 라고 한다.
 
-Reference :
+**어트리뷰트 (Attribute)** : 테이블에서 열을 의미. 같은 말로 Column 이라고도 하며 Attribute 의 수는 Degree 라고 한다.
 
-	[데이터베이스 Wikipedia][데이터베이스-Wiki]
-	[코딩팩토리 Database][코딩팩토리-Database]
+## Reference :
+
+[데이터베이스 Wikipedia][데이터베이스-Wiki] , [코딩팩토리 Database][코딩팩토리-Database]
 
 [데이터베이스-Wiki]: https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
 [코딩팩토리-Database]: https://coding-factory.tistory.com/77#recentEntries
