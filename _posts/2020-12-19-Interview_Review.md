@@ -30,9 +30,8 @@ categories: Interview
 
 Reference :
 
-[데이터베이스 Wikipedia][데이터베이스-Wiki]
-
-[코딩팩토리 Database][코딩팩토리-Database]
+	[데이터베이스 Wikipedia][데이터베이스-Wiki]
+	[코딩팩토리 Database][코딩팩토리-Database]
 
 [데이터베이스-Wiki]: https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4
 [코딩팩토리-Database]: https://coding-factory.tistory.com/77#recentEntries
