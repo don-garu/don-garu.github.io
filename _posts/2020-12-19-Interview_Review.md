@@ -18,6 +18,8 @@ categories: Interview
 
 - Database 용어
 
+![Database_terms](https://github.com/don-garu/don-garu.github.io/blob/master/images/database_terms.png)
+
 **식별자 (Identifier)** : 여러 집합체를 담고 있는 관계형 데이터베이스에서 각각의 구분할 수 있는 논리적인 개념
 
 **식별자의 특성**
